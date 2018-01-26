@@ -50,5 +50,6 @@
       "vue-html": "html",
       "javascript": "javascriptreact"
     },
-    "editor.scrollBeyondLastLine": false
+    "editor.scrollBeyondLastLine": false,
+    "git.autofetch": true
   }
