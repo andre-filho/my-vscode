@@ -28,7 +28,7 @@
       "jinja",
       "javascript",
       "javascriptreact",
-      "typescript",
+      // "typescript",
       "typescriptreact",
       "plaintext",
       "markdown",
@@ -50,6 +50,8 @@
       "vue-html": "html",
       "javascript": "javascriptreact"
     },
-    "editor.scrollBeyondLastLine": false,
-    "git.autofetch": true
+    "editor.scrollBeyondLastLine": true,
+    "git.autofetch": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0
   }
