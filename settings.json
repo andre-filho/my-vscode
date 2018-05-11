@@ -42,16 +42,21 @@
     "emmet.showAbbreviationSuggestions": true,
     "emmet.triggerExpansionOnTab": false,
     "emmet.showExpandedAbbreviation": "always",
-    "editor.minimap.maxColumn": 90,
+    "editor.minimap.maxColumn": 80,
     "vsicons.projectDetection.disableDetect": true,
     "workbench.iconTheme": "vscode-icons",
     "emmet.includeLanguages": {
       "erb": "html",
       "vue-html": "html",
-      "javascript": "javascriptreact"
+      "javascript": "javascriptreact",
+      "Markdown": "html",
+      "md": "html"
     },
     "editor.scrollBeyondLastLine": true,
     "git.autofetch": true,
     "workbench.startupEditor": "newUntitledFile",
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "vsicons.dontShowNewVersionMessage": true,
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "python.linting.flake8Enabled": true
   }
